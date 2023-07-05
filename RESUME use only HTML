@@ -1,0 +1,47 @@
+Q) make a resume only use of HTML.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+ <h1 align="center"><u>Resume</u></h1>
+ <!-- image -->
+ <img align="right" src="https://scontent.flko7-2.fna.fbcdn.net/v/t39.30808-6/277173348_1921322124726730_6641624790545642952_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=X8xUa65mh7YAX_eJqcD&_nc_ht=scontent.flko7-2.fna&oh=00_AfAO2BYBKymgA4u7CFg85FD1bim2J5gFBi-ydIT5-UQUtQ&oe=64A52636" alt="image" height="150px" width="120px" >
+ <!-- persional details -->
+ <h2><u>MANISH KUMAR SINGH</u></h2>
+ <p>Mobile : 980064xxxx</p>
+ <p>Email : ms981997@gmail.com</p>
+ <p>Address : DURGAPUR (WEST BANGAL)</p>
+ <!-- CAREER OBJECTIVE -->
+ <h3><u>CAREER OBJECTIVE</u></h3>
+ <p>To secure a challanging position in my field of education where I can effectively contribute my skills amd knowladge to the development of the organization's growth.</p>
+ <!-- Education -->
+ <h3><u>EDUCATION :</u></h3>
+  <li>2018 , 12 <sup>th</sup>from WBSCVTESD ,</li>
+  <li>2021,Diploma in Mechanical Engineering , </li>
+  <li>2024,B.Tech in Mechanical Engineering , (Appearing)</li>
+  <!-- Skills -->
+  <h2><u>Skills:</u></h2>
+   <ul>HTML</ul>
+   <ul>CSS</ul>
+   <ul>JAVASCRIPT</ul>
+   <!-- personal information -->
+   <h3><u>Personal information</u></h3>
+   <p>Father Name: N. SINGH/p>
+   <p> DOB : 03/08/1997</p>
+   <p>Gender : Male</p>
+   <p>Religion : Hindu</p>
+   <p>Language Known: Hindi , English and can speak Bangla</p>
+   <!-- declaration -->
+   <p><h3>Declaration:</h3>Every details furnished above is true to the best of my knowladge and belief.</p>
+   <!-- footer part -->
+   <h3>Place:_________________</h3>
+   <span><h3>Date:____________</h3><h3 align="right">Singnature:_________________</h3></span>
+</body>
+</html>
+
