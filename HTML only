@@ -1,0 +1,39 @@
+Q.5) Write HTML code so that it looks like the below image.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HTML code so that it looks like</title>
+</head>
+<body>
+  <div>
+    <img src="https://media.licdn.com/dms/image/D4D22AQHDlBEK5UfFgQ/feedshare-shrink_800/0/1688421179231?e=1691020800&v=beta&t=-wMX8QHDpykLdIIIsUJk-XyxpeajndXu8otaCpDnR3o" alt="img">
+
+    <h3>We will be learning the following things this week:</h3>
+    <H2>&nbsp; Day1  &nbsp;Day2 &nbsp; Day3  &nbsp;Day4</H2>
+    <h3>&nbsp;Linux1 &nbsp;HTML &nbsp;Linux2 &nbsp;Linux3</h3>
+    <h3>&nbsp;GIT1 &nbsp; &nbsp;&nbsp;CSS &nbsp;&nbsp; &nbsp;Git2 &nbsp;&nbsp; Bootstrap</h3>
+    <p>If you want to connect me, Please fill in the form:</p>
+    <h2> If you want to connect me, Please fill in the form:</h2>
+    <p><b>Name:</b> &nbsp;&nbsp;<input type="text" size="30px" placeholder="Please Enter your name" ></p>
+    <p><b>Phone no:+91</b><input type="number" size="30px" placeholder="Please Enter your Phone no "></p>
+    <p><b>Email Id:</b>&nbsp;&nbsp; <input type="email" size="30px" placeholder="Please Enter your Email"></p>
+    <h2>The following things are important to be a programmer</h2>
+    <ul style="list-style-type:disc">
+      <li>A problem solving mindset</li>
+      <li>Consistency</li>
+          <ul style="list-style-type:circle">
+            <li>Clean code</li>
+            <li>Through knowledge of core concepts</li>
+            <li>Readable code</li>
+          </ul>
+      <li>Speed</li>
+    </ul>
+
+    
+  </div>
+</body>
+</html>
